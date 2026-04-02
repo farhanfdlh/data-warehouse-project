@@ -1,3 +1,4 @@
+/*
 ===============================================================================
 DDL Script: Create Bronze Tables
 ===============================================================================
@@ -7,6 +8,7 @@ Tujuan Script:
     Jalankan script ini untuk mendefinisikan ulang struktur DDL dari 
     Tabel-tabel 'bronze'.
 ===============================================================================
+*/
 
 IF OBJECT_ID('bronze.crm_customer_info', 'U') IS NOT NULL
     DROP TABLE bronze.crm_customer_info;

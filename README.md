@@ -4,6 +4,8 @@ Welcome to my **Data Warehouse and Analytics Project** repository! 🚀
 
 This project demonstrates a comprehensive data warehousing solution built with SQL Server, covering the full pipeline from raw data ingestion to business-ready analytics. It was completed as a guided project following the [SQL Data Warehouse Project](https://www.youtube.com/watch?v=9GVqKuTVANE) tutorial by [Data With Baraa](https://github.com/DataWithBaraa), with the goal of deepening my understanding of data engineering concepts and strengthening my portfolio.
 
+👉 For the exploratory and reporting analysis built on top of this data warehouse, check out the [**data-analytics-project**](https://github.com/farhanfdlh/data-analytics-project) repository.
+
 ---
 
 ## 🏗️ Data Architecture

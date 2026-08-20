@@ -35,7 +35,7 @@ SELECT
     END                                 AS gender,
     ca.bdate                            AS birthdate,
     ci.cst_create_date                  AS create_date
-FROM silver.crm_cust_info ci
+FROM silver.crm_customer_info ci
 LEFT JOIN silver.erp_cust_az12 ca
     ON ci.cst_key = ca.cid
 LEFT JOIN silver.erp_loc_a101 la
@@ -62,7 +62,7 @@ SELECT
     pn.prd_cost     AS cost,
     pn.prd_line     AS product_line,
     pn.prd_start_dt AS start_date
-FROM silver.crm_prd_info pn
+FROM silver.crm_product_info pn
 LEFT JOIN silver.erp_px_cat_g1v2 pc
     ON pn.cat_id = pc.id
 WHERE pn.prd_end_dt IS NULL; -- Filter out all historical data

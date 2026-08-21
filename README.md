@@ -14,11 +14,11 @@
 - [Data Model (Star Schema)](#-data-model-star-schema)
 - [Key Outcomes](#-key-outcomes)
 - [Business Impact & Recommendations](#-business-impact--recommendations)
-- [Tools & Tech Stack](#-tools-and-tech-stack)
+- [Tools & Tech Stack](#%EF%B8%8F-tools--tech-stack)
 - [Repository Structure](#-repository-structure)
 - [Related Project](#-related-project)
 - [Author](#-author)
-
+https://github.com/farhanfdlh/data-warehouse-project/blob/main/README.md#%EF%B8%8F-tools-and-tech-stack
 ---
 
 ## 📌 Business Background
@@ -101,7 +101,7 @@ What used to require manually exporting and reconciling two CSV sources can now 
 
 *(See the follow-up analytics work built on top of this warehouse in the [related project](#-related-project) below.)*
 
-## 🛠️ Tools and Tech Stack
+## 🛠️ Tools & Tech Stack
 
 | Tool | Purpose |
 |---|---|

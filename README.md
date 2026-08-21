@@ -18,7 +18,7 @@
 - [Repository Structure](#-repository-structure)
 - [Related Project](#-related-project)
 - [Author](#-author)
-https://github.com/farhanfdlh/data-warehouse-project/blob/main/README.md#%EF%B8%8F-tools-and-tech-stack
+
 ---
 
 ## 📌 Business Background

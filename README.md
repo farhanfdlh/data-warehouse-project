@@ -14,7 +14,7 @@
 - [Data Model (Star Schema)](#-data-model-star-schema)
 - [Key Outcomes](#-key-outcomes)
 - [Business Impact & Recommendations](#-business-impact--recommendations)
-- [Tools & Tech Stack](#-tools--tech-stack)
+- [Tools & Tech Stack](#-tools-and-tech-stack)
 - [Repository Structure](#-repository-structure)
 - [Related Project](#-related-project)
 - [Author](#-author)
@@ -101,7 +101,7 @@ What used to require manually exporting and reconciling two CSV sources can now 
 
 *(See the follow-up analytics work built on top of this warehouse in the [related project](#-related-project) below.)*
 
-## 🛠️ Tools & Tech Stack
+## 🛠️ Tools and Tech Stack
 
 | Tool | Purpose |
 |---|---|
